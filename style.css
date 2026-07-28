@@ -1,7 +1,7 @@
-body {
+.center-container {
   display: flex;
-  justify-content: center; /* Centers items horizontally */
-  align-items: center;     /* Centers items vertically */
-  min-height: 100vh;       /* Ensures the body takes up the full screen height */
-  margin: 0;               /* Removes default browser margins */
+  flex-direction: column; /* Stacks image and text vertically */
+  align-items: center;    /* Centers them horizontally */
+  justify-content: center; /* Centers them vertically (if parent has height) */
+  text-align: center;     /* Ensures multi-line text is centered internally */
 }
