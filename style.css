@@ -1,4 +1,5 @@
-.center-container {
+.noticia
+{
   display: flex;
   flex-direction: column; /* Stacks image and text vertically */
   align-items: center;    /* Centers them horizontally */
