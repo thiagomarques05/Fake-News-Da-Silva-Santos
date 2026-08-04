@@ -1,5 +1,7 @@
 .noticia{
     display: flex;
-    flex-direction: column; /* Keeps items stacked vertically */
-    align-items: center;    /* Centers items horizontally */
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    text-align: center;
+    margin: 0;
 }
