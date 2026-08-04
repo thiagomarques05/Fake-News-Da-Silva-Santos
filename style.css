@@ -1,6 +1,5 @@
 .noticia{
-  margin: 0;
-  display: grid;
-  place-content: center;
-  min-height: 100vh;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
 }
