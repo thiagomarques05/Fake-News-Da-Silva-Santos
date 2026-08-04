@@ -1,4 +1,4 @@
-.html{
+body {
 background-color: #a18cff;
 }
 
@@ -9,6 +9,7 @@ background-color: #a18cff;
 
 .noticia
 {
+  background-color: #a18cff;
   padding: 15px 25px;
   display: flex;
   justify-content: space-between;
