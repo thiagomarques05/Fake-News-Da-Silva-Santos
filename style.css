@@ -1,8 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .noticia
 {
-  margin: 0;
-  display: grid;
-  place-content: center;
-  min-height: 100vh;
-  text-align: center
+  padding: 15px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #cac9ff;
 }
