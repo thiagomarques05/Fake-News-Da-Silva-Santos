@@ -2,4 +2,6 @@
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center;     /* Centers vertically */
+    text-align: center;
+    margin: 0 auto;
 }
