@@ -1,8 +1,6 @@
-.noticia
-{
-  display: flex;
-  flex-direction: column; /* Stacks image and text vertically */
-  align-items: center;    /* Centers them horizontally */
-  justify-content: center; /* Centers them vertically (if parent has height) */
-  text-align: center;     /* Ensures multi-line text is centered internally */
+.noticia{
+  margin: 0;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
 }
