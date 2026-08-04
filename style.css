@@ -1,7 +1,10 @@
+.html{
+background-color: #795bff;
+}
+
 * {
   margin: 0;
   padding: 0;
-  background-color: #cac9ff;
 }
 
 .noticia
@@ -10,5 +13,4 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #cac9ff;
 }
