@@ -1,4 +1,4 @@
-.parent-container {
+.noticia{
     display: flex;
     flex-direction: column; /* Keeps items stacked vertically */
     align-items: center;    /* Centers items horizontally */
