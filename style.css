@@ -1,7 +1,7 @@
-.noticia{
-    display: flex;
-    justify-content: center; /* Centers horizontally */
-    align-items: center;     /* Centers vertically */
-    text-align: center;
-    margin: 0;
+.noticia
+{
+  margin: 0;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
 }
