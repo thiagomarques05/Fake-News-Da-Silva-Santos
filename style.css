@@ -29,9 +29,10 @@ body {
 }
 
 main {
+    height: 842px;
     display: grid;
     place-items: center; 
-    min-height: 100vh;
+    height: 50%;
 }
 
 .cabecalho-link {
