@@ -8,12 +8,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #4E4D5C;
+    background-color: #573990;
 }
 
 .cartao {
     width: 260px;
-    height: 200px;
+    height: 400px;
     perspective: 1000px;
 }
 
@@ -25,7 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #efd39e;
+    background-color: #f9f1e4;
 }
 
 main {
@@ -46,7 +46,7 @@ h1 {
 }
 
 footer {
-    background-color: #4E4D5C;
+    background-color: #573990;
     padding: 15px 25px;
     color: #fff;
 }
@@ -76,11 +76,11 @@ footer {
 }
 
 .cartao-frente {
-    background-color: white;
+    background-color: #573990;
 }
 
 .cartao-verso {
-    background-color: #7e3e1c;
+    background-color: #573990;
     transform: rotateY(180deg);
 }
 
