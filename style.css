@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #573990;
+    background-color: #485ab8;
 }
 
 .cartao {
@@ -18,8 +18,7 @@
 }
 
 .cartao-imagem {
-    width: 95%;
-    height: 95%;
+    width: 100%;
 }
 
 body {
@@ -47,7 +46,7 @@ h1 {
 }
 
 footer {
-    background-color: #573990;
+    background-color: #485ab8;
     padding: 15px 25px;
     color: #fff;
 }
@@ -77,11 +76,11 @@ footer {
 }
 
 .cartao-frente {
-    background-color: #573990;
+    background-color: #485ab8;
 }
 
 .cartao-verso {
-    background-color: #573990;
+    background-color: #485ab8;
     transform: rotateY(180deg);
 }
 
